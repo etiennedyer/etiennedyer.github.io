@@ -1,6 +1,1 @@
 remote_theme: orderedlist/minimal
-nav:
-  - title: "CV"
-        url: "https://etiennedyer.github.io/cv"
-  - title: "Blog"
-        url: "https://etiennedyer.github.io/blog"
