@@ -1,12 +1,1 @@
 theme: jekyll-theme-minimal
-nav:
-  - title: "Services"
-    children:
-      - title: "GitHub Pages"
-        url: "https://pages.github.com/"
-      - title: "Jekyll"
-        url: "https://jekyllrb.com/"
-  - title: "Product"
-    children:
-      - title: "GitHub"
-        url: "https://github.com/"
