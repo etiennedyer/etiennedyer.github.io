@@ -14,7 +14,7 @@ platforms:
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/%C3%A9tienne-dyer-39a2682a7/
   - name: Email
-    icon: <i class="fa-marketing markunread"></i>
+    icon: <i class="fa-marketing fas fa-envelope-open-text"></i>
     link: mailto:etiennedyer@me.com
 github:
   is_project_page: false
