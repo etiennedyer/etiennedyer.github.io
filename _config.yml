@@ -2,8 +2,11 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 logo: logo.jpg
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-platforms:
+navigation:
+  - name: Home
+    link: ./README.md
   - name: CV
-    link: https://etiennedyer.github.io/cv
+    link: ./cv
+platforms:
   - name: LinkedIn
     link: https://www.linkedin.com/in/%C3%A9tienne-dyer-39a2682a7/
