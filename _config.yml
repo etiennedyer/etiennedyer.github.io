@@ -8,7 +8,8 @@ navigation:
   - name: CV
     link: https://etiennedyer.github.io/cv
   - name: Blog
-    linl: https://etiennedyer.github.io/blog
+    link: https://etiennedyer.github.io/blog
 platforms:
   - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/%C3%A9tienne-dyer-39a2682a7/
