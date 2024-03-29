@@ -4,9 +4,11 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 navigation:
   - name: Home
-    link: ./README.md
+    link: https://etiennedyer.github.io/
   - name: CV
-    link: ./cv
+    link: https://etiennedyer.github.io/cv
+  - name: Blog
+    linl: https://etiennedyer.github.io/blog
 platforms:
   - name: LinkedIn
     link: https://www.linkedin.com/in/%C3%A9tienne-dyer-39a2682a7/
