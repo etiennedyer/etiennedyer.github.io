@@ -13,3 +13,5 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/%C3%A9tienne-dyer-39a2682a7/
+github:
+  is_project_page: false
