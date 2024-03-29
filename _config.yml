@@ -1,5 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 logo: logo.jpg
-description: [Repo for my [stats](), [econometrics](), and [other]() projects]
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
