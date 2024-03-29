@@ -7,7 +7,7 @@ navigation:
     link: https://etiennedyer.github.io/
   - name: CV
     link: https://etiennedyer.github.io/cv
-  - #name: Blog
+ # - name: Blog
     link: https://etiennedyer.github.io/blog
 platforms:
   - name: LinkedIn
