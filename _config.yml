@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote-theme: jekyll-theme-minimal
 nav:
   - title: "CV"
         url: "https://etiennedyer.github.io/cv"
