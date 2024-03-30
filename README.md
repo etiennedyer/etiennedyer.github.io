@@ -1,4 +1,4 @@
-# Statistical modelling, econometrics, stuff
+# Étienne Dyer
 
 ## What I'm working on
 
