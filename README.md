@@ -1,5 +1,3 @@
-# Étienne Dyer
-
 ## What I'm working on
 
 **Liquidity risk:** using Monte Carlo methods to model the behaviour of a portfolio, with individual assets and liabilities correlated to macro indicators to evaluate the probability of bankruptcy. Currently just a demo, working on automating data fetching and implementing a GUI.
