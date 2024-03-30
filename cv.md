@@ -1,1 +1,1 @@
-![CV](CV.png)
+![CV](assets/CV.png)
