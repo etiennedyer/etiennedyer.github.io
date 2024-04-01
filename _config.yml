@@ -1,6 +1,5 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 logo: assets/logo.jpg
-favicon: true
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 navigation:
