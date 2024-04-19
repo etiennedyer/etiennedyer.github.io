@@ -1,6 +1,6 @@
 ## What I'm working on
 
-**[iFood Marketing Challenge:](/ifood.md)** Analysis and visualization of the iFood Marketing challenge data.
+**[iFood Marketing Challenge:](/projects/ifood.md)** Analysis and visualization of the iFood Marketing challenge data.
 
 **[Narcissistic personality disorder:](/projects/npd.md)** there hasn't been much research into what causes NPD on a social scale, so I've been aggregating and analyzing studies.
 
