@@ -1,8 +1,8 @@
-## What I'm working on
+## The Angel Problem
+I got an undergraduate research grant to study the angel problem, as described by John Conway. I've developped an interactive tool using python to explore the problem illustrate parts of the proof.
 
-**[iFood Marketing Challenge:](pages/ifood.md)** Analysis and visualization of the iFood Marketing challenge data.
+## Lead-acid battery recycling
+I'm working with students at the university of Chicago on reforming policy in Nigeria surrounding lead-acid battery recycling. 
 
-**[Narcissistic personality disorder:](pages/npd.md)** there hasn't been much research into what causes NPD on a social scale, so I've been aggregating and analyzing studies.
-
-**[ULAB recycling:](https://leadbatteries.substack.com/)** I'm working with students at the university of Chicago on reforming policy in Nigeria surrounding lead-acid battery recycling. 
-
+## Data science
+iFood Marketing Challenge: Analysis and visualization of the iFood Marketing challenge data.
