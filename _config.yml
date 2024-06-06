@@ -8,7 +8,7 @@ platforms:
     link: https://etiennedyer.github.io/
     icon: <i class="fa-solid fa-house"></i>
     
-  - name: CV
+  - name: Resume
     link: https://etiennedyer.github.io/pages/cv
     icon: <i class="fa-solid fa-file"></i>
     
