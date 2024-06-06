@@ -6,10 +6,16 @@ plugins:
 platforms:
   - name: Home
     link: https://etiennedyer.github.io/
+    icon: <i class="fa-solid fa-house"></i>
+    
   - name: CV
     link: https://etiennedyer.github.io/pages/cv
+    icon: <i class="fa-regular fa-file"></i>
+    
   - name: Art
     link: https://etiennedyer.github.io/pages/art
+    icon: <i class="bi bi-0-circle-fill"></i>
+    
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/%C3%A9tienne-dyer-39a2682a7/
