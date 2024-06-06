@@ -10,7 +10,7 @@ platforms:
     
   - name: Resume
     link: https://etiennedyer.github.io/pages/cv
-    icon: <i class="fa-solid fa-file"></i>
+    icon: <i class="fa-solid fa-star"></i>
     
   - name: Art
     link: https://etiennedyer.github.io/pages/art
