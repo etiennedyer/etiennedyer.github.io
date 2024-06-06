@@ -14,7 +14,7 @@ platforms:
     
   - name: Art
     link: https://etiennedyer.github.io/pages/art
-    icon: <i class="bi bi-0-circle-fill"></i>
+    icon: <i class="fa-solid fa-eye"></i>
     
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
