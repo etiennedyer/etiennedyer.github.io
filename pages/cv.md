@@ -1,6 +1,3 @@
-**Étienne Dyer** \
-etiennedyer (at) me (dot) com
-
 **ABOUT ME**
 
 I’m a pursing a B.A. Honours Pure and Applied Mathematics at Concordia University, where I’m focused on statistics, convex optimization, and machine learning.
