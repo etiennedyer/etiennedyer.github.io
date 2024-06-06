@@ -9,3 +9,11 @@ platforms:
     link: https://www.linkedin.com/in/%C3%A9tienne-dyer-39a2682a7/
 
 color-scheme: light
+
+navigation:
+  - name: Home
+    link: https://etiennedyer.github.io/
+  - name: CV
+    link: https://etiennedyer.github.io/pages/cv
+  - name: Art
+    link: https://etiennedyer.github.io/pages/art
