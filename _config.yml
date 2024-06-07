@@ -16,7 +16,7 @@ platforms:
     link: https://etiennedyer.github.io/pages/art
     icon: <i class="fa-solid fa-eye"></i>
 
-    name: GitHub
+  - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/etiennedyer
     
