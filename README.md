@@ -1,5 +1,6 @@
 ## [The Angel Problem](pages/angel.md)
 I got an undergraduate research grant to study the [angel problem](https://en.wikipedia.org/wiki/Angel_problem), as described by John Conway. I've developed an interactive tool in Python to explore the problem and illustrate parts of the proof. \
+\
 <img src="assets/angel/angel.png" width=400 height=400>
 
 ## [Predicting Population Size](pages/pool.md)
