@@ -31,9 +31,9 @@ I’m a pursing a B.A. Honours Pure and Applied Mathematics at Concordia Univers
 
 **EXPERIENCE**
 
-- Team Member, Space Concordia Rocketry Division — 2022-2023
+- Team Member, **Space Concordia Rocketry Division** — 2022-2023
 
-Helped assemble, test, document, and present the De-spin module for the _Starsailor_ rocket.
+Helped assemble, test, document, and present the De-spin module for the _Starsailor_ rocket. Conducted hypobaric explosive tests and research into high-velocity drag.
 
 - Private Tutor, Mathematics— 2023 - Current
 
