@@ -3,6 +3,7 @@ import random
 import pandas as pd
 from collections import Counter
 
+simulations = []
 input = [2, 3]     
 
 def inputData(y):       #makes the input list which we'll compare to simulated results
@@ -13,7 +14,6 @@ def inputData(y):       #makes the input list which we'll compare to simulated r
 
 def simulate(y, z):     #refreshes y times from a pool of size z / returns one input data format
     list = []
-    simulations = []
     for i in range(y):
         p = random.randint(1, z)
         list.append(p)
