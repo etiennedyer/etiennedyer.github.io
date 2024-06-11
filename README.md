@@ -1,3 +1,5 @@
+## What I'm working on
+
 ## [Predicting Population Size](pages/pool.md)
 This is a program I wrote in Python to answer questions of the type "If I sample from a pool 100 times, and 1 object appeared 3 times,  2 objects appeared twice, and every other object appear once, what is the most likely size of the pool?" (which I later learned biologists know as the [mark and recapture](https://en.wikipedia.org/wiki/Mark_and_recapture) process to estimate population sizes). It uses a Monte Carlo algorithm and recursive search to estimate the most likely pool size your sample came from.
 <img src="assets/pool/pool.png">
