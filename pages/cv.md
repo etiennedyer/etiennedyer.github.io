@@ -19,11 +19,15 @@ I’m a pursing a B.A. Honours Pure and Applied Mathematics at Concordia Univers
 
 **RELEVANT COURSEWORK**
 
-- (STAT 249/250) Probability & Statistics
-- (STAT 360) Linear Models
-- (MATH 361) Operations Research
-- (MATH 251/252) Linear Algebra I & II
-- (MATH 264/265) Multivariable Calculus I & II
+- STAT 249/250 Probability & Statistics
+  
+- STAT 360 Linear Models
+  
+- MATH 361 Operations Research
+  
+- MATH 251/252 Linear Algebra I & II
+  
+- MATH 264/265 Multivariable Calculus I & II
 
 **EXPERIENCE**
 
