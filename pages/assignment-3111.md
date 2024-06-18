@@ -153,13 +153,13 @@ We have that
 $R^2_{Y2|1}$
 \
 \
-$ = SSR(X_2 | X_1)/SSE(X_1)$ 
+$SSR(X_2 | X_1)/SSE(X_1)$ 
 \
 \
-$ = SSR(X_2, X_1) - SSR(X1) / SSE(X_1)$
+$SSR(X_2, X_1) - SSR(X1) / SSE(X_1)$
 \
 \
-$ = (b_1 R_{YX_1} + b_2 R_{YX_2} - b_1 R_{YX_1}) / SSE(X_1)$
+$(b_1 R_{YX_1} + b_2 R_{YX_2} - b_1 R_{YX_1}) / SSE(X_1)$
 
 
 
