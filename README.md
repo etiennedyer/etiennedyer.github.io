@@ -10,4 +10,8 @@ I got an undergraduate research grant to study the [angel problem](https://en.wi
 
 
 ## [Lead-acid battery recycling](https://leadbatteries.substack.com/)
-I'm working with students at the university of Chicago on reforming policy in Nigeria surrounding lead-acid battery recycling; this is a Substack where we write about what we've learnt.
+I'm working with students at the university of Chicago on reforming policy in Nigeria surrounding lead-acid battery recycling; this is a Substack where we write about what we've learnt.\
+\
+<a href="https://leadbatteries.substack.com/">
+  <img src="assets/lbn/banner.png" height=300>
+</a>
