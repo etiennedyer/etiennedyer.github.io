@@ -6,7 +6,7 @@ These are some tips I’ve written for myself throughout my (ongoing) studies, w
 
 **Go to class, sit in the front row, ask questions.** This is hard, for the reason professors will never tell you: there is such a thing as a stupid question. Maybe you don’t get the example cause you’re struggling with algebra you should have understood two years ago. Maybe you forgot the thing you spent all of last week on. Suck it up, ask the question and look dumb, cause I promise you’ll feel a lot dumber if you fail the class.
 
-Almost as importantly, this allows you to practice an important meta-skill: taming the shame mammoth. That being said, I like to sit in the front row cause it’s less embarrassing to hesitantly voice the answer to a question no one has answered than to raise your hand to do so.
+This also allows you to practice an important meta-skill: taming the [shame mammoth](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html). That being said, I like to sit in the front row cause it’s less embarrassing to hesitantly voice the answer to a question no one has answered than to raise your hand to do so.
 
 Also, **take notes**. It doesn’t matter if they’re messy, the objective of taking notes in class is forcing yourself to follow along. It is amazing how quickly the “Yeah that’s pretty obvious, I don’t need to write that down” add up to “what is going on.” You’ll know what’s important and what isn’t by the end of the chapter — for now, suck it up and write.
 
