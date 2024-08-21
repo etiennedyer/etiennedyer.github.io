@@ -1,5 +1,6 @@
 ## [Lead-acid battery recycling and Dodd-Frank 1502]([https://leadbatteries.substack.com/](https://leadbatteries.substack.com/p/from-conflict-minerals-to-clean-lead))
-I wrote this piece about the relationship between demand-side legislation like Section 1502 of the Dodd-Frank act and lead policy.\\
+I wrote this piece about the relationship between demand-side legislation like Section 1502 of the Dodd-Frank act and lead policy.\
+\
 <a href="https://leadbatteries.substack.com/">
   <img src="assets/lbn/doddfrank.png" height=300>
 </a>
