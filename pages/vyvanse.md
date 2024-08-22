@@ -6,7 +6,7 @@ It worked great! I felt I had more energy, had an easier time focusing, was more
 
 I bought some empty gelatin pill capsules and filled 15 of them with 10mg vyvanse, and 15 with a similar amount powdered sugar. I then wrote a Python program which randomly assigned the 15 placebo days and 15 medication days over a month. I made a little 30-day advent calendar, and got my dad to run the program and fill each day with the appropriate pill. [^1] The program used a seed for repeatability, and my dad took a screenshot of the output for redundancy. I gave each day a score out of 5 for some blend of mood and drive and focus, and guessed whether I got a placebo or medication. My initial guess was that I'd see an improvement of ~ 20% on medicated days.
 
-You can find the data, Python code for scheduling, and R code for data analysis [here](https://etiennedyer.github.io/assets/vyvanse/code.md).
+You can find the data, Python code for scheduling, and R code for data analysis [here](https://etiennedyer.github.io/assets/vyvanse/code).
 
 So, what were the results? Firstly, I was shocked to discover that I had no ability to tell what days I got a placebo, despite feeling like I definitely could: I had 15 correct guesses and 15 incorrect ones, no better than a coin flip. A couple days out I’m realizing my guess relied on a specific physical sensation that also happens when I drink coffee, so it makes sense I was getting this wrong, but it was initially very surprising.
 
