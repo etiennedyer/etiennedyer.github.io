@@ -1,0 +1,132 @@
+# Python code
+```
+import numpy as np
+import ipywidgets as widgets
+from IPython.display import display
+
+# Set the seed for reproducibility
+np.random.seed(625)
+
+# Create the first column (days 1 to 30)
+days = np.arange(1, 31)
+
+# Create the second column with 15 zeros and 15 ones
+values = np.array([0] * 15 + [1] * 15)
+
+# Shuffle the second column values
+np.random.shuffle(values)
+
+# Combine the two columns into a matrix
+result_matrix = np.column_stack((days, values))
+
+# Print schedule
+print(result_matrix)
+
+# Create an index to track the current day
+index = [0]
+
+def update_display():
+    if 0 <= index[0] < len(result_matrix):
+        day = result_matrix[index[0], 0]
+        treatment = result_matrix[index[0], 1]
+        if treatment == 0:
+            display_text.value = f"Day {day}: Placebo"
+        else:
+            display_text.value = f"Day {day}: Vyvanse"
+    elif index[0] >= len(result_matrix):
+        display_text.value = "End of trial"
+    else:
+        display_text.value = "Start of trial"
+
+def show_next_day(change):
+    if index[0] < len(result_matrix) - 1:
+        index[0] += 1
+    update_display()
+
+def show_previous_day(change):
+    if index[0] > 0:
+        index[0] -= 1
+    update_display()
+
+# Create the interactive widgets
+display_text = widgets.Label(value="Press button to start the trial.")
+next_button = widgets.Button(description="Next Day")
+prev_button = widgets.Button(description="Previous Day")
+
+# Link the buttons to the functions
+next_button.on_click(show_next_day)
+prev_button.on_click(show_previous_day)
+
+# Display the widgets
+display(display_text, next_button, prev_button)
+
+# Initialize the display with the first day
+update_display()
+
+np.savetxt("generated_vyvanse_data.csv", result_matrix, delimiter=",")
+```
+
+# R code
+
+```
+library(dplyr)
+library(ggplot2)
+
+trial <- read.csv("data/vyvanse/trial.csv", header = FALSE)
+generated <- read.csv("data/vyvanse/generated.csv", header = FALSE)
+df <- cbind(trial, generated)
+
+colnames(df) <- c("mood", "guess", "day", "generated")
+
+# Count how many guesses were correct
+sum(df$guess == df$generated)
+
+# Separate the mood scores based on the placebo condition
+med_day <- df$mood[df$generated == 1]
+placebo_day <- df$mood[df$generated == 0]
+
+# Perform a paired t-test
+t_test_result <- t.test(med_day, placebo_day, alternative = "greater", paired = TRUE)
+
+# Print the t-test result
+print(t_test_result)
+
+boxplot(mood ~ generated, data = df)
+```
+# Data 
+
+|mood|guess|generated|day|
+|----|-----|---------|---|
+|4   |1    |1        |1  |
+|3   |0    |1        |2  |
+|1   |1    |0        |3  |
+|2   |1    |0        |4  |
+|3   |0    |1        |5  |
+|5   |0    |1        |6  |
+|5   |1    |1        |7  |
+|4   |0    |0        |8  |
+|4   |1    |0        |9  |
+|5   |1    |0        |10 |
+|5   |0    |0        |11 |
+|4   |1    |1        |12 |
+|4   |0    |0        |13 |
+|3   |0    |0        |14 |
+|3   |0    |0        |15 |
+|4   |1    |1        |16 |
+|4   |0    |0        |17 |
+|5   |1    |0        |18 |
+|4   |1    |0        |19 |
+|5   |1    |1        |20 |
+|3.75|0    |0        |21 |
+|5   |1    |1        |22 |
+|4   |1    |1        |23 |
+|4   |0    |1        |24 |
+|4.5 |0    |1        |25 |
+|4   |1    |0        |26 |
+|2   |0    |1        |27 |
+|2   |1    |0        |28 |
+|3.5 |1    |1        |29 |
+|4   |0    |1        |30 |
+
+
+“mood” is the daily score out of 5, “guess” is my guess regarding what pill I took (0 for placebo, 1 for medication), “generated” is the actual value for which pill I took (same values as “guess”), and “day” indicates which of the 30 days this was on, and 
