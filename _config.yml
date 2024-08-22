@@ -20,7 +20,7 @@ platforms:
     icon: <i class="fa-solid fa-eye"></i>
 
   - name: GitHub
-    icon: <i class="fa-solid fa-github"></i>
+    icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/etiennedyer
     
   - name: LinkedIn
