@@ -19,9 +19,9 @@ platforms:
     link: https://etiennedyer.github.io/pages/art
     icon: <i class="fa-solid fa-eye"></i>
 
-  - name: Blog
-    icon: <i class="fa-solid fa-wind"></i>
-    link: https://etiennedyer.github.io/pages/blog
+  - name: GitHub
+    icon: <i class="fa-solid fa-github"></i>
+    link: https://github.com/etiennedyer
     
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
