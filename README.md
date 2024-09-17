@@ -1,4 +1,5 @@
 ## [Starting to work on the Vesuvius Challenge](https://github.com/etiennedyer/vesuvius)
+<hr style="border:1px solid gray">
 I'm developping an autosegmentation tool as part of the [Vesuvius Challenge](https://scrollprize.org/)
 <img src="assets/vesuvius/dbscan.png" width=400 height=400>
 
