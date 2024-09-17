@@ -1,5 +1,5 @@
 ## [Starting to work on the Vesuvius Challenge](https://github.com/etiennedyer/vesuvius)
-I've been developping an autosegmentation tool as part of the [Vesuvius Challenge](https://scrollprize.org/). It uses DBSCAN for initial segmenting, and I'm currently working on implementing a step to correct low-confidence regions according to data from high-confidence regions using Bayesian inference. <br/>
+I've been developing an autosegmentation tool as part of the [Vesuvius Challenge](https://scrollprize.org/). It uses DBSCAN for initial segmenting, and I'm currently working on implementing a step to correct low-confidence regions according to data from high-confidence regions using Bayesian inference. <br/>
 <br/>
 <img src="assets/vesuvius/dbscan.png" width=400 height=400>
 
