@@ -1,3 +1,7 @@
+## [Starting to work on the Vesuvius Challenge](https://github.com/etiennedyer/vesuvius)
+I'm developping an autosegmentation tool as part of the [Vesuvius Challenge](https://scrollprize.org/)
+<img src="assets/vesuvius/prev.png" width=400 height=400>
+
 ## [An n=1 trial on the effects of Vyvanse](https://etiennedyer.github.io/pages/vyvanse)
 I ran a 30-day trial to figure out the effect my ADHD meds have on my productivity and mood.
 
