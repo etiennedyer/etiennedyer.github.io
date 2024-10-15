@@ -4,7 +4,7 @@ I've been developing an autosegmentation tool as part of the [Vesuvius Challenge
 <img src="assets/vesuvius/dbscan.png" width=400 height=400>
 
 ## [An n=1 trial on the effects of Vyvanse](https://etiennedyer.github.io/pages/vyvanse)
-I ran a 30-day trial to figure out the effect my ADHD meds have on my productivity and mood.
+I ran a 30-day trial to figure out the effect my ADHD medication has on my productivity and mood.
 
 ## [Lead-acid battery recycling and Dodd-Frank 1502](https://leadbatteries.substack.com/p/from-conflict-minerals-to-clean-lead)
 This is a piece I wrote about the relationship between demand-side regulation like Section 1502 of the Dodd-Frank act and lead policy.
