@@ -4,7 +4,7 @@ I've been developing an autosegmentation tool as part of the [Vesuvius Challenge
 <img src="assets/vesuvius/dbscan.png" width=400 height=400>
 
 ## [An n=1 trial on the effects of Vyvanse](https://etiennedyer.github.io/pages/vyvanse)
-I ran a 30-day trial to figure out the effect my ADHD meds have on my productivity and mood.
+I ran a 30-day trial to figure out the effect my ADHD medication has on my productivity and mood.
 
 ## [Lead-acid battery recycling and Dodd-Frank 1502](https://leadbatteries.substack.com/p/from-conflict-minerals-to-clean-lead)
 This is a piece I wrote about the relationship between demand-side regulation like Section 1502 of the Dodd-Frank act and lead policy.
@@ -14,7 +14,7 @@ This is a program I wrote in Python to answer questions of the type "If I sample
 <img src="assets/pool/pool.png">
 
 ## [The Angel Problem](pages/angel.md)
-I got an undergraduate research grant to study the [angel problem](https://en.wikipedia.org/wiki/Angel_problem), as described by John Conway. I've developed an interactive tool in Python to explore the problem and illustrate parts of the proof. \
+I got an undergraduate research grant to study the [angel problem](https://en.wikipedia.org/wiki/Angel_problem) under Nadia Lafrenière and Assaf Shani. I've developed an interactive tool in Python to explore the problem and illustrate parts of the proof. \
 <br/>
 <img src="assets/angel/angel.png" width=400 height=400>
 
