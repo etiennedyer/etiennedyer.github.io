@@ -1,23 +1,27 @@
 **ABOUT ME**
 
-I’m a pursing a B.A. Honours Pure and Applied Mathematics at Concordia University, where I’m focused on statistics, convex optimization, and machine learning.
+I’m a pursing a B.A. Honours Pure and Applied Mathematics at Concordia University, where I’m focused on statistics, optimization, and machine learning.
 
 **SKILLS**
 
-- Data analysis using **R** (dplyr, ggplot2, shiny, caret), **Python** (pandas, sklearn, numpy, seaborn), and **SQL** (MySQL)
+- Data analysis using **R** (dplyr, ggplot2, shiny, caret) and **Python** (pandas, sklearn, numpy, seaborn)
 
 **EDUCATION**
 
-- **Concordia University**, BA Specialization Pure and Applied Mathematics
-- Dean’s List 2022-2023
-- 4.1/4.3 Concentration GPA
-- 3.74/4.3 CGPA
+- **Concordia University**, BA Honours Pure and Applied Mathematics
+- Dean’s List 2022-2023, 2023-2024
+- 3.98/4.3 Concentration GPA
+- 3.77/4.3 CGPA
 
 **RESEARCH**
 
 - Recipient of a **FAS Undergraduate Student Research Award**, for working with Nadia Lafrenière on combinatorial game theory.
 
 **RELEVANT COURSEWORK**
+
+- STAT 385 Neural Networks
+
+- STAT 380 Statistical Learning
 
 - STAT 249/250 Probability & Statistics
   
