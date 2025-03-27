@@ -19,19 +19,13 @@ I’m a pursing a B.A. Honours Pure and Applied Mathematics at Concordia Univers
 
 **RELEVANT COURSEWORK**
 
-- STAT 385 Neural Networks
-
-- STAT 380 Statistical Learning
-
-- STAT 249/250 Probability & Statistics
-  
-- STAT 360 Linear Models
-  
-- MATH 361 Operations Research
-  
-- MATH 251/252 Linear Algebra I & II
-  
-- MATH 264/265 Multivariable Calculus I & II
+- Statistical Learning
+- Neural Networks
+- Convex and Nonlinear Analysis
+- Probability & Statistics
+- Linear Models
+- Operations Research
+- Real Analysis, Functional Analysis
 
 **EXPERIENCE**
 
