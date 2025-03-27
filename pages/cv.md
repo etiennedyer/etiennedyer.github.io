@@ -15,7 +15,7 @@ I’m a pursing a B.A. Honours Pure and Applied Mathematics at Concordia Univers
 
 **RESEARCH**
 
-- Recipient of a **FAS Undergraduate Student Research Award**, for working with Nadia Lafrenière on combinatorial game theory.
+- Recipient of a **FAS Undergraduate Student Research Award**, for working with Nadia Lafrenière and Assaf Shani on combinatorial game theory.
 
 **RELEVANT COURSEWORK**
 
