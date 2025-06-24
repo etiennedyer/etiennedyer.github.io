@@ -1,8 +1,7 @@
 ## [Weaver](https://weaver-frontend-5l44.onrender.com/)
-I've just launched Weaver, a full-stack webapp for generating stories. Try it out!
+I've just launched Weaver, a full-stack webapp for generating stories. [Try it out!](https://weaver-frontend-5l44.onrender.com/)
 <br/>
-<br/>
-<img src="assets/weaver/weaver.png" width=200 height=400>
+<img src="assets/weaver/weaver.png" width=300 height=420>
 
 ## [Graph neural diffusion](https://github.com/etiennedyer/grand)
 For my honours project I've been working on GNN models, mainly based on the [GRAND](https://arxiv.org/abs/2106.10934) framework. So far I've implemented GRAND-linear in Pytorch and will be trying to reproduce their numerics. <br/>
