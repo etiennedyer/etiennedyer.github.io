@@ -1,12 +1,10 @@
 ## [Weaver](https://weaver-frontend-5l44.onrender.com/)
-I've just launched Weaver, a full-stack webapp for generating stories. [Try it out!](https://weaver-frontend-5l44.onrender.com/)
+I've just launched Weaver, a webapp for generating stories. [Try it out!](https://weaver-frontend-5l44.onrender.com/)
 <br/>
-<img src="assets/weaver/weaver.png" width=300 height=420>
 
 ## [Graph neural diffusion](https://github.com/etiennedyer/grand)
 For my honours project I've been working on GNN models, mainly based on the [GRAND](https://arxiv.org/abs/2106.10934) framework. So far I've implemented GRAND-linear in Pytorch and will be trying to reproduce their numerics. <br/>
 <br/>
-<img src="assets/grand/diffusion.png" width=350 height=300>
 
 ## [Starting to work on the Vesuvius Challenge](https://github.com/etiennedyer/vesuvius)
 I've been developing an autosegmentation tool as part of the [Vesuvius Challenge](https://scrollprize.org/). It uses DBSCAN for initial segmenting, and I'm currently working on implementing a step to correct low-confidence regions according to data from high-confidence regions using Bayesian inference. <br/>
