@@ -1,5 +1,5 @@
 ## Rendering Engine ##
-I've been really into graphics lately, and have been building a C++ / OpenGL-based rendering engine. You can find my code [here](https://github.com/etiennedyer/graphics), along with some thoughts on OpenGL and C++ graphics.
+I've been building a C++ / OpenGL-based rendering engine. You can find my code [here](https://github.com/etiennedyer/graphics), along with some thoughts on OpenGL and C++ graphics.
 <img src="assets/graphics/house.png" width=400 height=324>
 
 ## Weaver ##
