@@ -1,6 +1,6 @@
 ## Rendering Engine ##
 I've been really into graphics lately, and have been building a C++ / OpenGL-based rendering engine. You can find my code [here](), along with some thoughts on OpenGL and C++ graphics.
-<img src="assets/opengl/house.png" width=400 height=400>
+<img src="assets/graphics/house.png" width=400 height=400>
 
 ## [Weaver](https://weaver-frontend-5l44.onrender.com/)
 I've just launched Weaver, a webapp for generating stories. [Try it out!](https://weaver-frontend-5l44.onrender.com/)
