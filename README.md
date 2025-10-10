@@ -1,10 +1,6 @@
-## Rendering Engine ##
-I've been building a C++ / OpenGL-based rendering engine. You can find my code [here](https://github.com/etiennedyer/graphics), along with some thoughts on OpenGL and C++ graphics.
+## [Rendering Engine](https://github.com/etiennedyer/graphics) ##
+I've been building a C++ / OpenGL-based rendering engine to learn GPU and graphics programming. This repo contains some OpenGL code and thoughts on graphics in general.
 <img src="assets/graphics/house.png" width=400 height=324>
-
-## Weaver ##
-I've just launched Weaver, a webapp for generating stories. [Try it out!](https://weaver-frontend-5l44.onrender.com/)
-<br/>
 
 ## [Graph neural diffusion](https://github.com/etiennedyer/grand)
 This repo contains the work I did for my honours project, where I studied the [GRAND](https://arxiv.org/abs/2106.10934) GNN architecture, specifically evaluating the claim that their model is especially resistant to oversmoothing. <br/>
