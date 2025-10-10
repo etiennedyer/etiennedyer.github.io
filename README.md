@@ -7,7 +7,7 @@ I've just launched Weaver, a webapp for generating stories. [Try it out!](https:
 <br/>
 
 ## [Graph neural diffusion](https://github.com/etiennedyer/grand)
-For my honours project I've been working on GNN models, mainly based on the [GRAND](https://arxiv.org/abs/2106.10934) framework. So far I've implemented GRAND-linear in Pytorch and will be trying to reproduce their numerics. <br/>
+This repo contains the work I did for my honours project, where I studied the [GRAND](https://arxiv.org/abs/2106.10934) GNN architecture, specifically evaluating the claim that their model is especially resistant to oversmoothing. <br/>
 <br/>
 
 ## [Starting to work on the Vesuvius Challenge](https://github.com/etiennedyer/vesuvius)
