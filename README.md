@@ -1,10 +1,10 @@
 ## [Bronte](https://brontevfx.com) ##
 My main focus right now is Bronte, an AI agent for the VFX industry. Here's our website, looking to start beta testing our Houdini plugin in the next few months! <br/>
-<img src="assets/bronte/homepage.png" width="50%" height="50%">
+<img src="assets/bronte/homepage.png" width="75%" height="75%">
 
 ## [Weaver](https://weavestories.xyz) ##
 Check out my LLM-based storybuilder website! Would love feedback, have some more features I want to implement soon. <br/>
-<img src="assets/weaver/homepage.png" width="50%" height="50%">
+<img src="assets/weaver/homepage.png" width="75%" height="75%">
 
 ## [Rendering Engine](https://github.com/etiennedyer/graphics) ##
 I've been building a C++ / OpenGL-based rendering engine to learn GPU and graphics programming. This repo contains some OpenGL code and thoughts on graphics in general.
