@@ -1,5 +1,5 @@
 ## [Bronte](https://brontevfx.com) ##
-My main focus right now is Bronte, an AI agent for the VFX industry. Here's our website, looking to start beta testing our Houdini plugin in the next few months! <br/>
+My main focus right now is Bronte, an AI agent for the VFX industry. Here's our website, going to start beta testing the Houdini plugin over the next few months! <br/>
 <img src="assets/bronte/homepage.png" width="75%" height="75%">
 
 ## [Weaver](https://weavestories.xyz) ##
