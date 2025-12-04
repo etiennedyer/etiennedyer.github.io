@@ -1,3 +1,5 @@
+## The Story of Bronte
+
 Last spring, when Veo 3 came out, I was stunned. It was clear we’d crossed a crucial threshold in video generation. I began thinking of what I could build on top of it. I workshopped some consumer apps revolving around choose-your-own-adventure video, but felt the quality of video that was being produced, even by SOTA models like Veo3, was still sloppy, and orders of magnitude too slow for a snappy video game-like experience. That being said, I’m positive something like AI Dungeon with video will be a massive hit in the near future.
 
 What I landed on was the part of cinema that is already synthetic: visual effects. I began working on a text-to-FX tool that would output EXRs ready to be composited. 
@@ -12,11 +14,14 @@ I then switched to AnimateDiff, which is a tweak to StableDiffusion that allows 
 
 To get the EXR, I started working on what I pretty much knew from the start was a doomed venture: extracting high-resolution passes from ai-generated footage. There was too much variability to get a high-quality EXR that would be usable in professional setting.
 
-The nail in the coffin was Runway’s Aleph. [This](assets/comfyui/sd15_inpainting_controlnet_upscale.json) was my final ComfyUI workflow.
+The nail in the coffin was Runway’s Aleph. [This](assets/comfyui/sd15_inpainting_controlnet_upscale.json) was my final ComfyUI workflow. I decided to pivot to the other idea I had, an LLM assistant for Houdini, because it felt more achievable / less AI-sloppy.
 
 Rumour has it Meta is currently working on a similar project at a massive scale. From the Reddit threads discussing it, they seem to be doing a pretty messy job of it, it doesn’t sound as if they have too many FX people calling the shots. Will be interested in seeing what comes of that.
 
+
+
 Some questions I still have after this project:
+
 How do you generate against a blank background? Preconditioning the latent + adding an area mask was alright, but it ended up incorporating the latent’s colour into the effect (e.g., an explosion on the tan background would have wisps of tan in it, as if the explosion was happening in the desert). Also, using a green or blue latent just produced garbage.
 
 Where will the industry go? I think we’ll have a very split landscape: big-budget productions will keep using, maybe with generative AI for background effects. 
