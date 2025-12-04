@@ -2,7 +2,7 @@
 I worked a lot with ComfyUI this summer on the first version version of [Bronte](brontevfx.com), which was supposed to be a [Runway Aleph](https://runwayml.com/research/introducing-runway-aleph)-style tool. I didn't really have much to show for it, because I wasn't happy with the results, but I wanted to share my thoughts here because I definitely learned a lot.
 
 ## [Poker Coach](https://github.com/etiennedyer/poker-coach)
-Little webapp I made to learn GTO-ish poker. Lots I want to add / fix, but I thought I'd share it here. The [repo]((https://github.com/etiennedyer/poker-coach)) is public if anyone wants to contribute!
+Little webapp I made to learn GTO-ish poker. Lots I want to add / fix, but I thought I'd share it here. The [repo]((https://github.com/etiennedyer/poker-coach)) is public if anyone wants to contribute!<br/>
 <img src="assets/poker/poker.png" width="75%" height="75%">
 
 ## [Bronte](https://brontevfx.com) ##
