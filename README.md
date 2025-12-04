@@ -1,3 +1,10 @@
+## [ComfyUI / VFX](pages/comfyui)
+I worked a lot with ComfyUI this summer on the first version version of [Bronte](brontevfx.com), which was supposed to be a [Runway Aleph](https://runwayml.com/research/introducing-runway-aleph)-style tool. I didn't really have much to show for it, because I wasn't happy with the results, but I wanted to share my thoughts here because I definitely learned a lot.
+
+## [Poker Coach](https://github.com/etiennedyer/poker-coach)
+Little webapp I made to learn GTO-ish poker. Lots I want to add / fix, but I thought I'd share it here. The [repo]((https://github.com/etiennedyer/poker-coach)) is public if anyone wants to contribute!
+<img src="assets/poker/poker.png" width="75%" height="75%">
+
 ## [Bronte](https://brontevfx.com) ##
 My main focus right now is Bronte, an AI agent for the VFX industry. Here's our website, going to start beta testing the Houdini plugin over the next few months! <br/>
 <img src="assets/bronte/homepage.png" width="75%" height="75%">
