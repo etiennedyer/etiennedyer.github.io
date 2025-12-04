@@ -7,7 +7,6 @@ Little webapp I made to learn GTO-ish poker. Lots I want to add / fix, but I tho
 
 ## [Bronte](https://brontevfx.com) ##
 My main focus right now is Bronte, an AI agent for the VFX industry. Here's our website, going to start beta testing the Houdini plugin over the next few months! <br/>
-<img src="assets/bronte/homepage.png" width="75%" height="75%">
 
 ## [Weaver](https://weavestories.xyz) ##
 Check out my LLM-based storybuilder website! Would love feedback, have some more features I want to implement soon. <br/>
